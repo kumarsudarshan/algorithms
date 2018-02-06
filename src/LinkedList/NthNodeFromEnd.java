@@ -6,14 +6,11 @@
 
 package LinkedList;
 
-import java.util.Scanner;
-
 public class NthNodeFromEnd {
 
     static ListNode start = null;
 
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
         start = SingleLinkedList.createLinkedList(start);
         SingleLinkedList.printLinkedList(start);
         System.out.println("\n\t Nth Node from End : " + nthNodeFromEnd(start,4));

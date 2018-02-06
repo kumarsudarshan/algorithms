@@ -6,13 +6,10 @@
 
 package LinkedList;
 
-import java.util.Scanner;
-
 public class MiddleNodeOfLinkedList {
     static ListNode start = null;
 
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
         start = SingleLinkedList.createLinkedList(start);
         SingleLinkedList.printLinkedList(start);
         System.out.println("\n\tMiddle Node : " + middleNodeOfLinkedList(start));

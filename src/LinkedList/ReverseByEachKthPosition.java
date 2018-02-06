@@ -8,15 +8,11 @@
 
 package LinkedList;
 
-import java.util.Scanner;
-
-
 public class ReverseByEachKthPosition {
 
     static ListNode start = null;
 
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
         start = SingleLinkedList.createLinkedList(start);
         SingleLinkedList.printLinkedList(start);
         start = reverseByEachKthPosition(start,3);
