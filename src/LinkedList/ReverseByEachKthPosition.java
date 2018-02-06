@@ -1,3 +1,11 @@
+/*
+    Created by : Kumar Sudarshan
+    Date : 6th Feb 2018
+    Reverse by each Kth Position
+    1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9
+    3 -> 2 -> 1 -> 6 -> 5 -> 4 -> 9 -> 8 -> 7 ( k = 3)
+ */
+
 package LinkedList;
 
 import java.util.Scanner;
