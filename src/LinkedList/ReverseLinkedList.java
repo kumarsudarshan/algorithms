@@ -12,7 +12,7 @@ public class ReverseLinkedList {
 
     static ListNode start = null;
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         start = SingleLinkedList.createLinkedList(start);
         SingleLinkedList.printLinkedList(start);
         start = reverseLinkedListIterative(start);
@@ -21,11 +21,11 @@ public class ReverseLinkedList {
         SingleLinkedList.printLinkedList(start);
     }
 
-    static ListNode reverseLinkedListIterative(ListNode head){
+    static ListNode reverseLinkedListIterative(ListNode head) {
         ListNode prev = null;
         ListNode current = head;
         ListNode next = null;
-        while(current != null){
+        while (current != null) {
             next = current.getNext();
             current.setNext(prev);
             prev = current;
@@ -35,7 +35,7 @@ public class ReverseLinkedList {
         return head;
     }
 
-    static ListNode reverseLinkedListRecursive(ListNode head){
+    static ListNode reverseLinkedListRecursive(ListNode head) {
         if (head == null) return null;
         if (head.getNext() == null) return head;
         ListNode temp = head.getNext();

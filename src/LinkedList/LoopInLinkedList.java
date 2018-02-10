@@ -12,29 +12,29 @@ public class LoopInLinkedList {
 
     static ListNode start = null;
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // Creating LinkedList with Loop
-        start = SingleLinkedList.insertAtEnd(start,11);
-        start = SingleLinkedList.insertAtEnd(start,22);
-        start = SingleLinkedList.insertAtEnd(start,33);
-        start = SingleLinkedList.insertAtEnd(start,44);
-        start = SingleLinkedList.insertAtEnd(start,55);
-        start.next.next.next.next = SingleLinkedList.insertAtEnd(start,99); // creating loop
+        start = SingleLinkedList.insertAtEnd(start, 11);
+        start = SingleLinkedList.insertAtEnd(start, 22);
+        start = SingleLinkedList.insertAtEnd(start, 33);
+        start = SingleLinkedList.insertAtEnd(start, 44);
+        start = SingleLinkedList.insertAtEnd(start, 55);
+        start.next.next.next.next = SingleLinkedList.insertAtEnd(start, 99); // creating loop
         boolean result = LoopInLinkedList(start);
-        if(result == true)
-                System.out.println("Loop exists!!!");
+        if (result == true)
+            System.out.println("Loop exists!!!");
         else
-                System.out.println("No Loop exists!!!");
+            System.out.println("No Loop exists!!!");
     }
 
-    static boolean LoopInLinkedList(ListNode head){
+    static boolean LoopInLinkedList(ListNode head) {
         ListNode slowPtr = head, fastPtr = head;
-        while(slowPtr != null && fastPtr != null){
+        while (slowPtr != null && fastPtr != null) {
             slowPtr = slowPtr.getNext();
             fastPtr = fastPtr.getNext();
-            if(fastPtr != null)
+            if (fastPtr != null)
                 fastPtr = fastPtr.getNext();
-            if(slowPtr == fastPtr) return true;
+            if (slowPtr == fastPtr) return true;
         }
         return false;
     }

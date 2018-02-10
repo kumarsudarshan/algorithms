@@ -10,26 +10,26 @@ public class NthNodeFromEnd {
 
     static ListNode start = null;
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         start = SingleLinkedList.createLinkedList(start);
         SingleLinkedList.printLinkedList(start);
-        System.out.println("\n\t Nth Node from End : " + nthNodeFromEnd(start,4));
+        System.out.println("\n\t Nth Node from End : " + nthNodeFromEnd(start, 4));
     }
 
-    static int nthNodeFromEnd(ListNode head,int n){
-        ListNode temp1 = head,temp2 = head;
+    static int nthNodeFromEnd(ListNode head, int n) {
+        ListNode temp1 = head, temp2 = head;
         int count = 0;
-        for(int i=0;i<n;i++){
-            if(temp2 != null){
+        for (int i = 0; i < n; i++) {
+            if (temp2 != null) {
                 temp2 = temp2.getNext();
                 count++;
             }
         }
-        while(temp2 != null){
+        while (temp2 != null) {
             temp1 = temp1.getNext();
             temp2 = temp2.getNext();
             count++;
         }
-            return temp1.getData();
+        return temp1.getData();
     }
 }
