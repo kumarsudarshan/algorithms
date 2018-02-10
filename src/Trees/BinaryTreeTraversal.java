@@ -8,6 +8,15 @@ package Trees;
 
 public class BinaryTreeTraversal {
 
+    static void traverseBinaryTree(BinaryTreeNode root){
+        System.out.println("\nPreOrder Traversal : ");
+        BinaryTreeTraversal.preOrderTraveral(root);
+        System.out.println("\nInOrder Traversal : ");
+        BinaryTreeTraversal.inOrderTraveral(root);
+        System.out.println("\nPostOrder Traversal : ");
+        BinaryTreeTraversal.postOrderTraveral(root);
+    }
+
     static void preOrderTraveral(BinaryTreeNode root) {
         if (root != null) {
             System.out.print("\t" + root.getData());

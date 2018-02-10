@@ -11,11 +11,7 @@ public class BinaryTree {
 
     public static void main(String args[]) {
         root = createBinaryTree(root);
-        BinaryTreeTraversal.preOrderTraveral(root);
-        System.out.println();
-        BinaryTreeTraversal.inOrderTraveral(root);
-        System.out.println();
-        BinaryTreeTraversal.postOrderTraveral(root);
+        BinaryTreeTraversal.traverseBinaryTree(root);
     }
 
     static BinaryTreeNode createBinaryTree(BinaryTreeNode root) {
