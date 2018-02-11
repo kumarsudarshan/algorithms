@@ -19,7 +19,7 @@ public class BinaryTree {
 
     public static void main(String args[]) {
         root = createBinaryTree(root);
-        BinaryTreeTraversal.traverseBinaryTree(root);
+        BinaryTreeTraversalRecursion.traverseBinaryTree(root);
     }
 
     static BinaryTreeNode createBinaryTree(BinaryTreeNode root) {
