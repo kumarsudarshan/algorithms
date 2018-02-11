@@ -2,6 +2,14 @@
     Created by : Kumar Sudarshan
     Date : 11th Feb 2018
     Binary Tree Creation
+                    1
+                    |
+                   / \
+                  2   3
+                 / \
+                4   5
+               /
+              6
  */
 
 package Trees;
