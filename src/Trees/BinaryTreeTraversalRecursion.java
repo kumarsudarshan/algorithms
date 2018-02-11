@@ -6,15 +6,15 @@
 
 package Trees;
 
-public class BinaryTreeTraversal {
+public class BinaryTreeTraversalRecursion {
 
     static void traverseBinaryTree(BinaryTreeNode root){
         System.out.println("\nPreOrder Traversal : ");
-        BinaryTreeTraversal.preOrderTraveral(root);
+        BinaryTreeTraversalRecursion.preOrderTraveral(root);
         System.out.println("\nInOrder Traversal : ");
-        BinaryTreeTraversal.inOrderTraveral(root);
+        BinaryTreeTraversalRecursion.inOrderTraveral(root);
         System.out.println("\nPostOrder Traversal : ");
-        BinaryTreeTraversal.postOrderTraveral(root);
+        BinaryTreeTraversalRecursion.postOrderTraveral(root);
     }
 
     static void preOrderTraveral(BinaryTreeNode root) {
