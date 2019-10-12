@@ -1,0 +1,10 @@
+# Eclipse
+.metadata
+.cache
+.classpath
+.project
+.settings/
+bin/
+
+#MacOS
+.DS_Store
