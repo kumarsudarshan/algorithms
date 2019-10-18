@@ -4,11 +4,6 @@ import java.util.Stack;
 
 public class BinaryTreeTraversalNonRecursion {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 	static void traverseBinaryTree(BinaryTreeNode root) {
 		System.out.println("\nPreOrder Traversal : ");
 		BinaryTreeTraversalNonRecursion.preOrderTraveral(root);
@@ -71,16 +66,14 @@ public class BinaryTreeTraversalNonRecursion {
 		while (!stack.isEmpty()) {
 			BinaryTreeNode currentNode = stack.peek();
 			if (prevNode == null || prevNode.getLeft() == currentNode || prevNode.getRight() == currentNode) {
-				if(currentNode.getLeft() != null) {
+				if (currentNode.getLeft() != null) {
 					stack.push(currentNode.getLeft());
-				}
-				else if(currentNode.getRight() != null) {
+				} else if (currentNode.getRight() != null) {
 					stack.push(currentNode.getRight());
 				}
-			} 
-			else if (currentNode.getLeft() == prevNode) {
-				if(currentNode.getRight() != null)
-                    stack.push(currentNode.getRight());
+			} else if (currentNode.getLeft() == prevNode) {
+				if (currentNode.getRight() != null)
+					stack.push(currentNode.getRight());
 			} else {
 				System.out.print("\t" + currentNode.getData());
 				stack.pop();

@@ -15,16 +15,15 @@
 package Trees;
 
 public class BinaryTree {
-    static BinaryTreeNode root = null;
 
     public static void main(String args[]) {
-        root = createBinaryTree(root);
+    	BinaryTreeNode root = createBinaryTree();
         BinaryTreeTraversalRecursion.traverseBinaryTree(root);
         BinaryTreeTraversalNonRecursion.traverseBinaryTree(root);
     }
 
-    static BinaryTreeNode createBinaryTree(BinaryTreeNode root) {
-        root = new BinaryTreeNode(1);
+    static BinaryTreeNode createBinaryTree() {
+    	BinaryTreeNode root = new BinaryTreeNode(1);
         root.setLeft(new BinaryTreeNode(2));
         root.setRight(new BinaryTreeNode(3));
         root.getLeft().setLeft(new BinaryTreeNode(4));

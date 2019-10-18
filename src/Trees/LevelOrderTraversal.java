@@ -12,10 +12,8 @@ import java.util.Queue;
 
 public class LevelOrderTraversal {
 
-    static BinaryTreeNode root = null;
-
     public static void main(String args[]) {
-        root = BinaryTree.createBinaryTree(root);
+    	BinaryTreeNode root = BinaryTree.createBinaryTree();
         levelOrderTraversal(root);
     }
 
