@@ -4,15 +4,39 @@
 ### Maths
 ### Arrays
 ### Linked List
+1. [Implement single linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/SingleLinkedList.java)
+2. [Reverse linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/ReverseLinkedList.java)
+3. [Reverse by each Kth position](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/ReverseByEachKthPosition.java)
+4. [Rotate linked list by k times](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/RotateLinkedList.java)
+5. [Delete node at position](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/DeleteNodeAtPosition.java)
+6. [Loop in linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/LoopInLinkedList.java)
+7. [Middle node of linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/MiddleNodeOfLinkedList.java)
+8. [Nth node form end](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/NthNodeFromEnd.java)
 ### Trees
-1. [Sum of left Leaves](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/SumOfLeftLeaves.java)
+1. [Minimum depth of Binary Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/MinDepthOfBinaryTree.java)
+2. [Sum of left Leaves](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/SumOfLeftLeaves.java)
+3. [Bottom level order traversal](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LevelOrderTraversal2.java)
+4. [Insert in BST](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/InsertInBST.java)
+5. [Left view of binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LeftViewBinaryTree.java)
+6. [Bottom view of binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/BottomViewBinaryTree.java)
 ### Binary Search
 ### Stack
+1. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
 ### Heap
 ### Sliding Window
 ### Trie
+1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
 ### Fibonacci
 ### Greedy Algorithm
 ### Recursion
+1. [Sort a stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/SortStack.java)
+2. [Sort an array](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/SortAnArray.java)
+3. [Reverse a stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/ReverseStack.java)
+4. [Print all sequence of string](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/PrintAllSequence.java)
+5. [Middle element in stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/DeleteMiddleInStack.java)
+6. [Kth Symbol in grammar](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/KthSymbolInGrammar.java)
 ### Dynamic Programming
+### Matrix
+1. [Spiral Order](https://github.com/kumarsudarshan/algorithms/blob/master/src/matrix/SpiralOrder.java)
+2. [Shift in spiral order](https://github.com/kumarsudarshan/algorithms/blob/master/src/matrix/ShiftInSpiralOrder.java)
