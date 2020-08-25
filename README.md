@@ -37,6 +37,9 @@
 5. [Middle element in stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/DeleteMiddleInStack.java)
 6. [Kth Symbol in grammar](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/KthSymbolInGrammar.java)
 ### Dynamic Programming
+1. [Longest Increasing Subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/LIS.java)
+2. [Maximum size square](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MaximumSizeSquare.java)
+3. [Set partition](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/SetPartition.java)
 ### Matrix
 1. [Spiral Order](https://github.com/kumarsudarshan/algorithms/blob/master/src/matrix/SpiralOrder.java)
 2. [Shift in spiral order](https://github.com/kumarsudarshan/algorithms/blob/master/src/matrix/ShiftInSpiralOrder.java)
