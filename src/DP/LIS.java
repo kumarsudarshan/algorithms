@@ -10,7 +10,7 @@
 
 package DP;
 
-public class LCS {
+public class LIS {
 
     public static void main(String[] args) {
         int[] nums = {1,3,6,7,9,4,10,5,6};
