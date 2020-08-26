@@ -3,6 +3,8 @@
 ### String
 ### Maths
 ### Arrays
+1. [Merge K sorted lists](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MergeKSortedLists.java)
+2. [Min steps in infinite grid](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MinStepsInInfiniteGrid.java)
 ### Linked List
 1. [Implement single linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/SingleLinkedList.java)
 2. [Reverse linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/ReverseLinkedList.java)
