@@ -27,6 +27,8 @@
 ### Heap
 ### Sliding Window
 1. [Find maximum sum of a subarray of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/MaxSubArray.java)
+2. [First negative integer in every window of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/FirstNegativeNumberSubArray.java)
+3. [Count Occurrences of Anagrams](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/CountOccurencesAnagram.java)
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
