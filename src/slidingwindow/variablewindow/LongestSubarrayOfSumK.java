@@ -17,8 +17,10 @@ public class LongestSubarrayOfSumK {
 
     public static void main(String[] args) {
         int[] arr = {4, 1, 1, 1, 2, 3, 5};
+//        maxSubarraySum(arr, 5);
+        maxLen(arr, 5);
 //        System.out.println(maxSubarraySum(arr, 5));
-        System.out.println(maxLen(arr, 5));
+//        System.out.println(maxLen(arr, 5));
     }
 
     public static int maxSubarraySum(int[] nums, int k) {
@@ -31,18 +33,16 @@ public class LongestSubarrayOfSumK {
             if (currentSum < k) {
                 j++;
             } else if (currentSum == k) {
-                //System.out.println(j - i + 1);
-                max = Math.max(max, j - i + 1);
+                System.out.println(j - i + 1);
+//                max = Math.max(max, j - i + 1);
                 j++;
-            }
-            if (currentSum > k) {
+            } else if (currentSum > k) {
                 while (currentSum > k) {
                     currentSum = currentSum - nums[i];
                     i++;
                 }
                 j++;
             }
-
         }
         return max;
     }
@@ -56,7 +56,7 @@ public class LongestSubarrayOfSumK {
                 j++;
             else if (sum == k) {
                 System.out.println(j - i + 1);
-                res = Math.max(res, j - i + 1);
+//                res = Math.max(res, j - i + 1);
                 sum = 0;
                 i++;
             } else {
