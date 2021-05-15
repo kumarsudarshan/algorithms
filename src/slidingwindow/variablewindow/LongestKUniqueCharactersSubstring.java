@@ -1,6 +1,7 @@
 package slidingwindow.variablewindow;
 
 /*
+https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/
 Longest K unique characters substring
 Given a string you need to print the size of the longest possible substring that has exactly K unique characters. If there is no possible substring then print -1.
 
