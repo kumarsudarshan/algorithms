@@ -12,6 +12,15 @@ S = "aabacbebebe", K = 3
 Output: 7
 Explanation: "cbebebe" is the longest
 substring with K distinct characters.
+
+Another Question with same logic :
+John is at a toy store help him pick maximum number of toys. He can only select in a continuous manner and he can select only two types of toys.
+
+Example:
+Input:
+abaccab
+Output : 4
+Solution - Same as above question but k = 2.
  */
 
 import java.util.HashMap;
