@@ -27,10 +27,10 @@
 ### Heap
 ### Sliding Window
 #### Fixed fixed size window
-1. [Find maximum sum of a subarray of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/MaxSubArray.java)
-2. [First negative integer in every window of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/FirstNegativeNumberSubArray.java)
-3. [Count Occurrences of Anagrams](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/CountOccurencesAnagram.java)
-4. [Maximum of all subarrays of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/MaximumAllSubarray.java)
+1. [Find maximum sum of a subarray of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/fixedwindow/MaxSubArray.java)
+2. [First negative integer in every window of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/fixedwindow/FirstNegativeNumberSubArray.java)
+3. [Count Occurrences of Anagrams](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/fixedwindow/CountOccurencesAnagram.java)
+4. [Maximum of all subarrays of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/variablewindow/LongestSubarrayOfSumK.java)
 #### Variable size window
 1. [Longest subarray of sum k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/LongestSubarrayOfSumK.java)
 ### Trie
