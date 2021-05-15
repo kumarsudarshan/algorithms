@@ -32,7 +32,7 @@
 3. [Count Occurrences of Anagrams](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/CountOccurencesAnagram.java)
 4. [Maximum of all subarrays of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/MaximumAllSubarray.java)
 #### Variable size window
-1. [Longest subarray of sum k](rrrvr)
+1. [Longest subarray of sum k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/LongestSubarrayOfSumK.java)
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
