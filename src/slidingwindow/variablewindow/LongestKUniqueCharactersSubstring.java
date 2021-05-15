@@ -1,13 +1,26 @@
 package slidingwindow.variablewindow;
 
+/*
+Longest K unique characters substring
+Given a string you need to print the size of the longest possible substring that has exactly K unique characters. If there is no possible substring then print -1.
+
+Example 1:
+
+Input:
+S = "aabacbebebe", K = 3
+Output: 7
+Explanation: "cbebebe" is the longest
+substring with K distinct characters.
+ */
+
 import java.util.HashMap;
 import java.util.Map;
 
 public class LongestKUniqueCharactersSubstring {
 
     public static void main(String[] args) {
-        System.out.println(longestkSubstr("aabacbebebe", 3));
-        System.out.println(longestkSubstr("aaaa", 1));
+        System.out.println(longestkSubstr("aabacbebebe", 3)); // 7
+        System.out.println(longestkSubstr("aaaa", 1)); // 4
     }
 
     public static int longestkSubstr(String s, int k) {
