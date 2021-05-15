@@ -33,6 +33,7 @@
 4. [Maximum of all subarrays of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/variablewindow/LongestSubarrayOfSumK.java)
 #### Variable size window
 1. [Longest subarray of sum k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/LongestSubarrayOfSumK.java)
+2. [Longest k unique characters in a substring](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/variablewindow/LongestKUniqueCharactersSubstring.java)
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
