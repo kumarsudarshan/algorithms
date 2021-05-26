@@ -17,55 +17,28 @@ public class LongestSubarrayOfSumK {
 
     public static void main(String[] args) {
         int[] arr = {4, 1, 1, 1, 2, 3, 5};
-//        maxSubarraySum(arr, 5);
-        maxLen(arr, 5);
-//        System.out.println(maxSubarraySum(arr, 5));
-//        System.out.println(maxLen(arr, 5));
+        longestSubArraySumK(arr, 5);
     }
 
-    public static int maxSubarraySum(int[] nums, int k) {
-        int N = nums.length;
+    public static int longestSubArraySumK(int[] arr, int k) {
         int i = 0, j = 0;
-        int max = Integer.MIN_VALUE;
-        int currentSum = 0;
-        while (j < N) {
-            currentSum = currentSum + nums[j];
-            if (currentSum < k) {
+        int sum = 0;
+        int maxLen = 0;
+
+        while (j < arr.length) {
+            sum = sum + arr[j];
+            if (sum < k) {
                 j++;
-            } else if (currentSum == k) {
-                System.out.println(j - i + 1);
-//                max = Math.max(max, j - i + 1);
-                j++;
-            } else if (currentSum > k) {
-                while (currentSum > k) {
-                    currentSum = currentSum - nums[i];
+            } else {
+                while(sum >= k) {
+                    maxLen = Math.max(maxLen, j - i + 1);
+                    sum = sum - arr[i];
                     i++;
                 }
                 j++;
             }
         }
-        return max;
-    }
-
-    static int maxLen(int arr[], int k) {
-        int n = arr.length;
-        int i = 0, j = 0, sum = 0, res = 0;
-        while (j < n) {
-            sum += arr[j];
-            if (sum < k)
-                j++;
-            else if (sum == k) {
-                System.out.println(j - i + 1);
-//                res = Math.max(res, j - i + 1);
-                sum = 0;
-                i++;
-            } else {
-                res = Math.max(res, j - i);
-                i = j;
-                j++;
-            }
-        }
-        return res;
+        return maxLen;
     }
 
 }
