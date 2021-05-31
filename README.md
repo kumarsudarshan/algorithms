@@ -44,6 +44,13 @@
 6. [Triplet sum woth smaller sum (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/TripletsWithSmallerSum.java)
 7. [Subarrays with Product Less than a Target (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/SubArrayProductLessThanTarget.java)
 8. [Dutch National Flag Problem (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/DutchNationalFlag.java)
+9. [Quadruple Sum to Target (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/QuadrupleSumToTarget.java)
+10. [Comparing Strings containing Backspaces (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/ComparingStringsBackspaces.java)
+11. [Minimum Window Sort (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/MinimumWindowSort.java)
+### Fast Slow Pointer
+1. [LinkedList Cycle (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/LinkedListCycle.java)
+2. [Start of LinkedList Cycle (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/StartOfLinkedListCycle.java)
+3. [Happy Number (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/HappyNumber.java)
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
