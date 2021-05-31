@@ -35,6 +35,15 @@
 1. [Longest subarray of sum k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/LongestSubarrayOfSumK.java)
 2. [Longest k unique characters in a substring](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/variablewindow/LongestKUniqueCharactersSubstring.java)
 3. [Longest substring without repeating characters](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/variablewindow/LongestSubstringWithoutRepeatingCharacters.java)
+### Two Pointer
+1. [Pair with Target Sum (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/FindPairSum.java)
+2. [Remove Duplicates (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/RemoveDuplicates.java)
+3. [Squaring sorted array (east)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/SquaringSortedArray.java)
+4. [Triplet sum to zero (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/SearchTriplets.java)
+5. [Triplet sum close to target (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/TripletSumCloseToTarget.java)
+6. [Triplet sum woth smaller sum (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/TripletsWithSmallerSum.java)
+7. [Subarrays with Product Less than a Target (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/SubArrayProductLessThanTarget.java)
+8. [Dutch National Flag Problem (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/twopointer/DutchNationalFlag.java)
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
