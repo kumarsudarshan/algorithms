@@ -51,6 +51,10 @@
 1. [LinkedList Cycle (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/LinkedListCycle.java)
 2. [Start of LinkedList Cycle (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/StartOfLinkedListCycle.java)
 3. [Happy Number (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/HappyNumber.java)
+4. [Middle of the LinkedList (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/MiddleLinkedList.java)
+5. [Palindrome LinkedList (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/PalindromeLinkedList.java)
+6. [Rearrange a LinkedList (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/RearrangeLinkedList.java)
+7. [Cycle in a Circular Array (hard) ](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/CycleInCircularArray.java)
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
