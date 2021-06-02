@@ -55,6 +55,14 @@
 5. [Palindrome LinkedList (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/PalindromeLinkedList.java)
 6. [Rearrange a LinkedList (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/RearrangeLinkedList.java)
 7. [Cycle in a Circular Array (hard) ](https://github.com/kumarsudarshan/algorithms/blob/master/src/fastslowpointer/CycleInCircularArray.java)
+### Merge Intervals
+1. [Merge Intervals (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/MergeIntervals.java)
+2. [Insert Interval (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/InsertIntervals.java)
+3. [Intervals Intersection (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/IntervalIntersection.java)
+4. [Conflicting Appointments (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/ConflictingAppointments.java)
+5. [Minimum Meeting Rooms (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/MinimumMeetingRooms.java)
+6. [Maximum CPU Load (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/MaximumCPULoad.java)
+7. [Employee Free Time (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/EmployeeFreeTime.java)
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
