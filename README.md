@@ -21,6 +21,22 @@
 4. [Insert in BST](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/InsertInBST.java)
 5. [Left view of binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LeftViewBinaryTree.java)
 6. [Bottom view of binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/BottomViewBinaryTree.java)
+#### Breadth First Search
+1. [Level order traversal (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/bfs/LevelOrderTraversal.java)
+2. [Reverse level order traversal (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/bfs/ReverseLevelOrderTraversal.java)
+3. [ZigZag traversal (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/bfs/ZigZagTraversal.java)
+4. [Level averages traversal (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/bfs/LevelAverage.java)
+5. [Min/Max depth of Binary Tree (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/bfs/MinMaxDepthOfBinaryTree.java)
+6. [Level Order Sucessor (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/bfs/LevelOrderSuccessor.java)
+7. [Right View of Binary Tree (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/bfs/RightViewOfBinaryTree.java)
+#### Depth First Search
+1. [Binary tree path sum (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/PathSum.java)
+2. [All paths for a sum (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/AllPathSum.java)
+3. [Sum of path number (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/SumOfPathNumbers.java)
+4. [Path with given sequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/PathWithSequence.java)
+5. [Count paths for a sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/CountPathForSum.java)
+6. [Tree Diameter (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/TreeDiameter.java)
+7. [Path with Maximum Sum (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/PathWithMaxSum.java)
 ### Binary Search
 ### Stack
 1. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
@@ -63,6 +79,12 @@
 5. [Minimum Meeting Rooms (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/MinimumMeetingRooms.java)
 6. [Maximum CPU Load (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/MaximumCPULoad.java)
 7. [Employee Free Time (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/mergeintervals/EmployeeFreeTime.java)
+### Cyclic Sort
+1. [Cyclic Sort (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/cyclicsort/CyclicSort.java)
+2. [Find the missing number (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/cyclicsort/MissingNumber.java)
+3. [Find all the missing number (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/cyclicsort/AllMissingNumber.java)
+4. [Find the duplicate number (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/cyclicsort/DuplicateNumber.java)
+5. [Find all the duplicate number (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/cyclicsort/AllDuplicateNumbers.java)
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
