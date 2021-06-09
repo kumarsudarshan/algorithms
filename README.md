@@ -37,6 +37,16 @@
 5. [Count paths for a sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/CountPathForSum.java)
 6. [Tree Diameter (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/TreeDiameter.java)
 7. [Path with Maximum Sum (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/PathWithMaxSum.java)
+### Pattern Subset
+1. [Subsets (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/AllSubsets.java)
+2. [Subsets with Duplicates (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/SubsetsWIthDuplicates.java)
+3. [Permutations (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/Permutations.java)
+4. [String Permutations by changing case (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/StringPermutationByChangingCase.java)
+5. [Balanced Parentheses (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/BalancedParentheses.java)
+6. [Unique Generalized Abbreviations (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/GeneralizedAbbreviation.java)
+7. [Evaluate Expression (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/EvaluateExpression.java)
+8. [Structurally Unique Binary Search Trees (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/UniqueBST.java)
+9. [Count of Structurally Unique Binary Search Trees (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/CountUniqueBST.java)
 ### Binary Search
 ### Stack
 1. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
