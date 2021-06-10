@@ -48,6 +48,16 @@
 8. [Structurally Unique Binary Search Trees (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/UniqueBST.java)
 9. [Count of Structurally Unique Binary Search Trees (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/subset/CountUniqueBST.java)
 ### Binary Search
+1. [Order-agnostic Binary Search (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/OrderAgnosticBinarySearch.java)
+2. [Ceiling of a Number (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/CeilingNumber.java)
+3. [Next Letter (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/NextLetter.java)
+4. [Number Range (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/NumberRange.java)
+5. [Search in a Sorted Infinite Array (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/SearchInSortedInfiniteArray.java)
+6. [Minimum Difference Element (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/MinimumDifferenceElement.java)
+7. [Bitonic Array Maximum (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/BitonicArrayMaximum.java)
+8. [Search Bitonic Array (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/SearchBitonicArray.java)
+9. [Search in Rotated Array (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/SearchInRotatedArray.java)
+10. [Rotation Count (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/RotationCount.java)
 ### Stack
 1. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
 ### Heap

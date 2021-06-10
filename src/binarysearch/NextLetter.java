@@ -18,7 +18,7 @@ Input: ['a', 'c', 'f', 'h'], key = 'h'
 Output: 'a'
 Explanation: As the array is assumed to be circular, the smallest letter greater than 'h' is 'a'.
  */
-public class NextNumber {
+public class NextLetter {
     public static void main(String[] args) {
         System.out.println(nextNumber(new char[]{'a', 'c', 'f', 'h'}, 'f'));
         System.out.println(nextNumber(new char[]{'a', 'c', 'f', 'h'}, 'b'));
