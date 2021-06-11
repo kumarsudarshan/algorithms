@@ -61,6 +61,9 @@
 ### Stack
 1. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
 ### Heap
+1. [Find the Median of a Number Stream (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/MedianOfNumberStream.java)
+2. [Sliding Window Median (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/SlidingWindowMedian.java)
+3. [Maximize Capital (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/MaximizeCapital.java)
 ### Sliding Window
 #### Fixed fixed size window
 1. [Find maximum sum of a subarray of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/fixedwindow/MaxSubArray.java)
