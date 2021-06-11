@@ -61,6 +61,21 @@
 ### Stack
 1. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
 ### Heap
+1. [Top 'K' Numbers (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/KLargestNumbers.java)
+2. [Kth Smallest Number (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/KthSmallestNumber.java)
+3. ['K' Closest Points to the Origin (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/KClosetPointsToOrigin.java)
+4. [Connect Ropes (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/ConnectRopes.java)
+5. [Top 'K' Frequent Numbers (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/TopKFrequentNumbers.java)
+6. [Frequency Sort (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/FrequencySort.java)
+7. [Kth Largest Number in a Stream (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/KthLargestInStream.java)
+8. ['K' Closest Numbers (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/KClosetNumbers.java)
+9. [Maximum Distinct Elements (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/MaximumDistinctNumbers.java)
+10. [Sum of Elements (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/SumOfElements.java)
+11. [Rearrange String (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/RearrangeString.java)
+12. [Rearrange String K Distance Apart (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/RearrangeStringKDistantApart.java)
+13. [Scheduling Tasks (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/SchedulingTasks.java)
+14. [Frequency Stack (hard) ](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/FrequencyStack.java)
+#### Two Heap
 1. [Find the Median of a Number Stream (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/twoheap/MedianOfNumberStream.java)
 2. [Sliding Window Median (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/twoheap/SlidingWindowMedian.java)
 3. [Maximize Capital (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/twoheap/MaximizeCapital.java)
