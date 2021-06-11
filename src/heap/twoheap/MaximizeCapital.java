@@ -1,4 +1,4 @@
-package heap;
+package heap.twoheap;
 import java.util.*;
 /*
 Maximize Capital (hard)
