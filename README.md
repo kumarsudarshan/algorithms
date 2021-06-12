@@ -79,6 +79,10 @@
 1. [Find the Median of a Number Stream (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/twoheap/MedianOfNumberStream.java)
 2. [Sliding Window Median (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/twoheap/SlidingWindowMedian.java)
 3. [Maximize Capital (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/twoheap/MaximizeCapital.java)
+#### K-way merge
+1. [Merge K Sorted Lists (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/kwaymerge/MergeKSortedLists.java)
+2. [Kth Smallest Number in a Sorted Matrix (Hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/kwaymerge/KthSmallestInSortedMatrix.java)
+3. [Smallest Number Range (Hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/kwaymerge/SmallestNumberRange.java)
 ### Sliding Window
 #### Fixed fixed size window
 1. [Find maximum sum of a subarray of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/fixedwindow/MaxSubArray.java)
@@ -126,6 +130,12 @@
 ### Trie
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
 ### Graph
+1. [Topological Sort (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/TopologicalSort.java)
+2. [Tasks Scheduling (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/TaskScheduling.java)
+3. [Tasks Scheduling Order (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/TaskSchedulingOrder.java)
+4. [All Tasks Scheduling Orders (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/AllTaskSchedulingOrder.java)
+5. [Alien Dictionary (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/AlienDictionary.java)
+6. [Reconstructing a Sequence (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/ReconstructSequence.java)
 ### Fibonacci
 ### Greedy Algorithm
 ### Recursion
