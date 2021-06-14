@@ -59,7 +59,16 @@
 9. [Search in Rotated Array (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/SearchInRotatedArray.java)
 10. [Rotation Count (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/RotationCount.java)
 ### Stack
-1. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
+1. [Next greater element](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/NearestGreaterElement.java)
+2. [Next smaller element](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/NextSmallerElement.java)
+3. [Stock span problem](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/StockSpanProblem.java)
+4. [Largest Rectangular Area in a Histogram](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/MaximumAreaHistogram.java)
+5. [Maximum size rectangle binary sub-matrix with all 1s](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/RegionInBinaryMatrix.java)
+6. [Trapping Rain Water](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/TrappingRainWater.java)
+7. [Min Stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/MinStack.java)
+8. [Implement stack using heap](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/StackUsingHeap.java)
+9. [The Celebrity Problem](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/CelebrityProblem.java)
+10. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
 ### Heap
 1. [Top 'K' Numbers (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/KLargestNumbers.java)
 2. [Kth Smallest Number (easy)](https://github.com/kumarsudarshan/algorithms/blob/master/src/heap/topkelements/KthSmallestNumber.java)
