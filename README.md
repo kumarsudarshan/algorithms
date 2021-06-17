@@ -211,11 +211,20 @@
 
 #### 0/1 Knapsack
 
+1. [0/1 Knapsack](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/Knapsack01.java)
+2. [Subset sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/SubsetSum.java)
+3. [Partition Equal Subset Sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/PartitionEqualSubsetSum.java)
+4. [Count subset sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/CountSubsetSum.java)
+5. [Partition equal subset sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/PartitionEqualSubsetSum.java)
+6. [Count subset with given difference](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/CountSubsetWithGivenDifference.java)
+7. [Target Sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/TargetSum.java)
+
 #### Unbounded Knapsack
 
 #### Fibonacci
 
 #### LCS
+
 1. [Longest common subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/LongestCommonSubsequence.java)
 2. [Longest common substring](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/LongestCommonSubstring.java)
 3. [Print LCS](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/PrintLCS.java)
