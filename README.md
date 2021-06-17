@@ -145,9 +145,8 @@
 1. [Permutations](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/Permutations.java)
 2. [Combinations](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/Combinations.java)
 3. [All permutation of string](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/AllPermutationOfString.java)
-
-3. [N-Queens](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/NQueens.java)
-4. [Knight's tour](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/KnightTours.java)
+4. [N-Queens](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/NQueens.java)
+5. [Knight's tour](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/KnightTours.java)
 
 ### Linked List
 
