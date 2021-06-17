@@ -216,6 +216,17 @@
 #### Fibonacci
 
 #### LCS
+1. [Longest common subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/LongestCommonSubsequence.java)
+2. [Longest common substring](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/LongestCommonSubstring.java)
+3. [Print LCS](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/PrintLCS.java)
+4. [Shortest Common Super Sequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/ShortestCommonSuperSequence.java)
+5. [Minimum number of Insertion and Deletion](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/MinimumNumberInsertionDeletion.java)
+6. [Longest Palindromic Subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/LongestPalindromicSubsequence.java)
+7. [Minimum number of deletions in a string to make it palindrome](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/MinimumDeletionToPalindrome.java)
+8. [Print shortest common super sequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/PrintShortestCommonSuperSequence.java)
+9. [Longest Repeating Subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/LongestRepeatingSubsequence.java)
+10. [Sequence pattern matching](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/SequencePatternMatch.java)
+11. [Edit Distance](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lcs/EditDistance.java)
 
 #### LIS
 
