@@ -112,7 +112,8 @@
 8. [Rat in a maze with multiple steps or jumps allowed](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/RatInMazeWithMultipleSteps.java)
 8. [Print all Possible Decoding of a given Digit Sequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/PrintEncoding.java)
 ### Backtrack
-1. [N-Queens]()
+1. [N-Queens](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/NQueens.java)
+1. [Knight's tour](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/KnightTours.java)
 ### Linked List
 1. [Implement single linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/SingleLinkedList.java)
 2. [Reverse linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/ReverseLinkedList.java)
