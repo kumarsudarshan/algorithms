@@ -258,3 +258,6 @@
 
 1. [Spiral Order](https://github.com/kumarsudarshan/algorithms/blob/master/src/matrix/SpiralOrder.java)
 2. [Shift in spiral order](https://github.com/kumarsudarshan/algorithms/blob/master/src/matrix/ShiftInSpiralOrder.java)
+
+## Design
+1. [Design LRU Cache](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/LRUCache.java)
