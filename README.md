@@ -261,3 +261,4 @@
 
 ## Design
 1. [Design LRU Cache](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/LRUCache.java)
+2. [Min Stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/MinStack.java)
