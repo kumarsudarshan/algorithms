@@ -248,6 +248,7 @@
 2. [Maximum Sum Increasing Subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/MaximumSumIncreasingSubsequence.java)
 3. [Increasing Decreasing Subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/IncreasingDecreasingSubsequence.java)
 4. [Building Bridges](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/BuildingBridge.java)
+5. [Longest Chain](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/LongestChain.java)
 
 #### Kadane's Algorithm
 
