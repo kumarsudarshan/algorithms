@@ -245,6 +245,7 @@
 #### LIS
 
 1. [Longest Increasing Subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/LIS.java)
+1. [Increasing Decreasing Subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/IncreasingDecreasingSubsequence.java)
 2. [Building Bridges](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/BuildingBridge.java)
 
 #### Kadane's Algorithm
