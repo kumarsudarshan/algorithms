@@ -244,6 +244,9 @@
 
 #### LIS
 
+1. [Longest Increasing Subsequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/LIS.java)
+2. [Building Bridges](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/lis/BuildingBridge.java)
+
 #### Kadane's Algorithm
 
 #### MCM - Multi Chain Multiplication
