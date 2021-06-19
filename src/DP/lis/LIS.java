@@ -39,6 +39,12 @@ public class LIS {
     }
 
 
+    /*
+    Recursive Approach(Brute Force):
+    LIS(i) = 1 + LIS(j), where 0<j<I and arr[j] < arr[i],
+    Or
+    LIS(i) = 1
+     */
     static int max_ref;
 
     static int lisRecursion(int arr[], int n) {
