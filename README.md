@@ -222,6 +222,10 @@
 
 #### Unbounded Knapsack
 
+1. [Rod Cutting](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/unboundedknapsack/RodCutting.java)
+2. [Coin Change I](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/unboundedknapsack/CoinChangeI.java)
+2. [Coin Change II](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/unboundedknapsack/CoinChangeII.java)
+
 #### Fibonacci
 
 #### LCS
@@ -261,6 +265,7 @@
 2. [Shift in spiral order](https://github.com/kumarsudarshan/algorithms/blob/master/src/matrix/ShiftInSpiralOrder.java)
 
 ## Design
+
 1. [Design LRU Cache](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/LRUCache.java)
 2. [Min Stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/MinStack.java)
 3. [Peeking Iterator](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/PeekingIterator.java)
