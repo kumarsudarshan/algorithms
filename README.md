@@ -167,7 +167,9 @@
 4. [Insert in BST](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/InsertInBST.java)
 5. [Left view of binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LeftViewBinaryTree.java)
 6. [Bottom view of binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/BottomViewBinaryTree.java)
-6. [Serialize/Derialize binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/SerializeDeserializeBinaryTree.java)
+7. [Serialize/Deserialize binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/SerializeDeserializeBinaryTree.java)
+8. [Flatten Binary tree to linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/FlattenBinaryTreeToLinkedList.java)
+8. [Lowest Common Ancestor of a Binary Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LowestCommonAncestor.java)
 
 #### Breadth First Search
 
