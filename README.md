@@ -169,7 +169,8 @@
 6. [Bottom view of binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/BottomViewBinaryTree.java)
 7. [Serialize/Deserialize binary tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/SerializeDeserializeBinaryTree.java)
 8. [Flatten Binary tree to linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/FlattenBinaryTreeToLinkedList.java)
-8. [Lowest Common Ancestor of a Binary Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LowestCommonAncestor.java)
+9. [Lowest Common Ancestor of a Binary Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LowestCommonAncestor.java)
+10. [Symmetric Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/SymmetricTree.java)
 
 #### Breadth First Search
 
