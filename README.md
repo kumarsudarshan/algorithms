@@ -158,6 +158,7 @@
 6. [Loop in linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/LoopInLinkedList.java)
 7. [Middle node of linked list](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/MiddleNodeOfLinkedList.java)
 8. [Nth node form end](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/NthNodeFromEnd.java)
+9. [Rearrange a LinkedList (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/LinkedList/RearrangeLinkedList.java)
 
 ### Trees
 
