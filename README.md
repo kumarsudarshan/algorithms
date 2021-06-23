@@ -209,6 +209,8 @@
 
 #### Disjoint Set (Union Find)
 
+1. [Implement Disjoint Set (Union/Find)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/disjointset/DisjointSet.java)
+
 ### Trie
 
 1. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/trie/Trie.java)
