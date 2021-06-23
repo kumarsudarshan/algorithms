@@ -210,6 +210,7 @@
 #### Disjoint Set (Union Find)
 
 1. [Implement Disjoint Set (Union/Find)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/disjointset/DisjointSet.java)
+2. [Redundant Connection](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/disjointset/RedundantConnection.java)
 
 ### Trie
 
