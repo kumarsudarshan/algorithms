@@ -263,6 +263,8 @@
 
 #### Kadane's Algorithm
 
+1. [Largest sum contiguous sub array](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/kadane/LargestSumContiguousSubarray.java)
+
 #### MCM - Multi Chain Multiplication
 
 #### DP on trees
