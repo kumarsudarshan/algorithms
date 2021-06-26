@@ -226,7 +226,7 @@
 2. [Subset sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/SubsetSum.java)
 3. [Partition Equal Subset Sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/PartitionEqualSubsetSum.java)
 4. [Count subset sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/CountSubsetSum.java)
-5. [Partition equal subset sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/PartitionEqualSubsetSum.java)
+5. [Minimum subset sum difference](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/MinimumSubsetSumDifference.java)
 6. [Count subset with given difference](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/CountSubsetWithGivenDifference.java)
 7. [Target Sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/knapsack/TargetSum.java)
 
