@@ -218,6 +218,8 @@
 
 ### Greedy Algorithm
 
+1. [Minimum Number of Refueling Stops](https://github.com/kumarsudarshan/algorithms/blob/master/src/greedy/MinimumRefuelingStops.java)
+
 ### Dynamic Programming
 
 #### 0/1 Knapsack
