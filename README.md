@@ -205,8 +205,9 @@
 2. [Tasks Scheduling (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/TaskScheduling.java)
 3. [Tasks Scheduling Order (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/TaskSchedulingOrder.java)
 4. [All Tasks Scheduling Orders (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/AllTaskSchedulingOrder.java)
-5. [Alien Dictionary (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/AlienDictionary.java)
-6. [Reconstructing a Sequence (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/ReconstructSequence.java)
+5. [Find Rome (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/FindRome.java)
+6. [Alien Dictionary (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/AlienDictionary.java)
+7. [Reconstructing a Sequence (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/ReconstructSequence.java)
 
 #### Disjoint Set (Union Find)
 
