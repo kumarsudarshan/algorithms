@@ -277,6 +277,12 @@
 2. [Maximum size square](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MaximumSizeSquare.java)
 3. [Set partition](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/SetPartition.java)
 
+#### Pattern on DP
+
+##### Minimum (Maximum) Path to Reach a Target
+
+1. [Minimum path sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/pattern/optimumpath/MinimumSumPath.java)
+
 ### Arrays
 
 1. [Merge K sorted lists](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MergeKSortedLists.java)
