@@ -299,3 +299,19 @@
 2. [Min Stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/MinStack.java)
 3. [Peeking Iterator](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/PeekingIterator.java)
 4. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/Trie.java)
+
+## SQL
+
+1. Nth highest salary
+
+```
+SELECT DISTINCT SALARY FROM TEST.EMPLOYEE e1 WHERE 
+        2-1 = (
+        SELECT COUNT(DISTINCT SALARY ) FROM TEST.EMPLOYEE e2 
+        WHERE e2.SALARY > e1.SALARY 
+)
+```
+also
+```
+SELECT DISTINCT SALARY FROM TEST.EMPLOYEE ORDER BY salary DESC LIMIT 1 OFFSET 3-1;
+```
