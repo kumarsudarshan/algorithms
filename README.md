@@ -282,7 +282,7 @@
 ##### Minimum (Maximum) Path to Reach a Target
 
 1. [Minimum path sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/pattern/optimumpath/MinimumSumPath.java)
-
+2. [Climbing stairs with min cost](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/pattern/optimumpath/MinCostClimbingStairs.java)
 ### Arrays
 
 1. [Merge K sorted lists](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MergeKSortedLists.java)
