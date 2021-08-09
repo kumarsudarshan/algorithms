@@ -302,16 +302,4 @@
 
 ## SQL
 
-1. Nth highest salary
-
-```
-SELECT DISTINCT SALARY FROM TEST.EMPLOYEE e1 WHERE 
-        N-1 = (
-        SELECT COUNT(DISTINCT SALARY ) FROM TEST.EMPLOYEE e2 
-        WHERE e2.SALARY > e1.SALARY 
-)
-```
-also
-```
-SELECT DISTINCT SALARY FROM TEST.EMPLOYEE ORDER BY salary DESC LIMIT 1 OFFSET N-1;
-```
+ [SQL queries](ttps://github.com/kumarsudarshan/algorithms/blob/master/sql.md)
