@@ -302,4 +302,4 @@
 
 ## SQL
 
- [SQL queries](ttps://github.com/kumarsudarshan/algorithms/blob/master/sql.md)
+ [SQL queries](https://github.com/kumarsudarshan/algorithms/blob/master/sql.md)
