@@ -287,8 +287,11 @@
 
 #### Others DP problems
 
-1. [Minimum Number of Taps to Open to Water a Garden](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MinimumTapToSprinkleWater.java)
-2. [Maximum square size with all ones](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MaximumSizeSquare.java)
+1. [Jump Game](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/JumpGame.java)
+2. [Jump Game II](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/JumpGameII.java)
+3. [Jump Game III](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/JumpGameIII.java)
+4. [Minimum Number of Taps to Open to Water a Garden](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MinimumTapToSprinkleWater.java)
+5. [Maximum square size with all ones](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MaximumSizeSquare.java)
 
 ### Arrays
 
