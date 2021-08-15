@@ -285,6 +285,11 @@
 2. [Climbing stairs with min cost](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/pattern/optimumpath/MinCostClimbingStairs.java)
 3. [Minimum falling path sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/pattern/optimumpath/MinimumFallingPathSum.java)
 
+#### Others DP problems
+
+1. [Minimum Number of Taps to Open to Water a Garden](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MinimumTapToSprinkleWater.java)
+2. [Maximum square size with all ones](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MaximumSizeSquare.java)
+
 ### Arrays
 
 1. [Merge K sorted lists](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MergeKSortedLists.java)
