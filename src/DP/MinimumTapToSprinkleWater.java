@@ -39,11 +39,11 @@ Output: 1
  */
 public class MinimumTapToSprinkleWater {
     public static void main(String[] args) {
-        System.out.println(minTaps(5, new int[]{3,4,1,1,0,0}));
-        System.out.println(minTaps1(5, new int[]{3,4,1,1,0,0}));
+        System.out.println(minTaps(5, new int[]{3, 4, 1, 1, 0, 0}));
+        System.out.println(minTaps1(5, new int[]{3, 4, 1, 1, 0, 0}));
     }
 
-    // nlog(n)
+    // Time : nlog(n)
     public static int minTaps(int n, int[] ranges) {
         int min = 0;
         int max = 0;
@@ -64,7 +64,7 @@ public class MinimumTapToSprinkleWater {
         return count;
     }
 
-     // optimized
+    // optimized - Time: O(n)
     public static int minTaps1(int n, int[] ranges) {
         int[] realRange = new int[ranges.length];
         //Calculating the max range a tap can sprinkle at each of the n + 1 points
