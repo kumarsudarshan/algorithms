@@ -283,6 +283,8 @@
 
 1. [Minimum path sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/pattern/optimumpath/MinimumSumPath.java)
 2. [Climbing stairs with min cost](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/pattern/optimumpath/MinCostClimbingStairs.java)
+3. [Minimum falling path sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/pattern/optimumpath/MinimumFallingPathSum.java)
+
 ### Arrays
 
 1. [Merge K sorted lists](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MergeKSortedLists.java)
@@ -302,4 +304,4 @@
 
 ## SQL
 
- [SQL queries](https://github.com/kumarsudarshan/algorithms/blob/master/sql.md)
+[SQL queries](https://github.com/kumarsudarshan/algorithms/blob/master/sql.md)
