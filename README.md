@@ -174,6 +174,7 @@
 9. [Lowest Common Ancestor of a Binary Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LowestCommonAncestor.java)
 10. [Symmetric Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/SymmetricTree.java)
 11. [N-Ary Tree - build a tree from csv file](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/NAryTree.java)
+12. [BST to Greater Sum Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/BSTToGreaterSumTree.java)
 
 #### Breadth First Search
 

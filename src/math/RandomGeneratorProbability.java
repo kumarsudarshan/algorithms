@@ -38,7 +38,7 @@ public class RandomGeneratorProbability {
         int[] freq = new int[6];
 
         for (int i = 0; i < 10000000; i++) {
-            int val = generate();
+            int val = generate1();
             freq[val]++;
         }
 
