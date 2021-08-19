@@ -202,6 +202,10 @@
 1. [Shortest Path](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/ShortestPath.java)
 2. [Town Judge](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/TownJudge.java)
 
+#### Depth First Search
+
+1. [Search word in grid](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/dfs/SearchWord.java)
+
 #### Topological Sort
 
 1. [Topological Sort (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/TopologicalSort.java)
