@@ -196,6 +196,7 @@
 5. [Count paths for a sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/CountPathForSum.java)
 6. [Tree Diameter (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/TreeDiameter.java)
 7. [Path with Maximum Sum (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/PathWithMaxSum.java)
+8. [Delete nodes and return forest (disjoint trees) (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/DeleteNodesReturnForest.java)
 
 ### Graph
 
