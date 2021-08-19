@@ -4,7 +4,7 @@
 
 ### Sliding Window
 
-#### Fixed fixed size window
+#### Fixed size window
 
 1. [Find maximum sum of a subarray of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/fixedwindow/MaxSubArray.java)
 2. [First negative integer in every window of size k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/fixedwindow/FirstNegativeNumberSubArray.java)
@@ -314,6 +314,11 @@
 ### Math
 
 1. [Random number generator](https://github.com/kumarsudarshan/algorithms/blob/master/src/math/RandomGeneratorProbability.java)
+
+### Bitwise
+
+1. [All number appeared twice except one](https://github.com/kumarsudarshan/algorithms/blob/master/src/bitwise/SingleNumber.java)
+2. [All number appeared n time  except one appear one time](https://github.com/kumarsudarshan/algorithms/blob/master/src/bitwise/ElementAppearedOnce.java)
 
 ## Design
 
