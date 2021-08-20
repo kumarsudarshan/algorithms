@@ -116,3 +116,27 @@ SQL Queries
         FROM CITY;
     ```
     
+12 Create temporal tables
+System Temporal Table Declaration
+In this example we will consider a simple table containing customers -
+```
+      CREATE TABLE CUSTOMER
+         (CUSTOMER_ID BIGINT NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH +1 INCREMENT BY +1 ),
+         CUSTOMER_NAME VARCHAR(50),
+         ADDRESS VARCHAR(250)
+      );
+```
+There is a requirement to record all changes to this table and to be able to show the state of
+customer record at any point in the past. This requirement, often called an audit trail, can be met
+using system temporal support.
+
+```
+   alter table customer
+      add system_start timestamp(12)
+         generated always as row begin not null
+      add system_end timestamp(12)
+         generated always as row end not null
+      add tx_start timestamp(12)
+         generated always as transaction start id implicitly hidden
+      add period system_time (system_start, system_end);
+```
