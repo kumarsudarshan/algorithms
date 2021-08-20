@@ -140,3 +140,13 @@ using system temporal support.
          generated always as transaction start id implicitly hidden
       add period system_time (system_start, system_end);
 ```
+For select command :
+```
+SELECT … FROM <table> FOR SYSTEM_TIME <period-specification>
+
+The <period-specification> comes in three formats -
+
+AS OF <timestamp> Point in time
+FROM <timestamp> TO <timestamp> Inclusive / exclusive period
+BETWEEN <timestamp> AND <timestamp> Inclusive / inclusive period
+```
