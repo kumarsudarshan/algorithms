@@ -136,9 +136,10 @@
 6. [Kth Symbol in grammar](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/KthSymbolInGrammar.java)
 7. [Keypad combination](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/KeypadCombination.java)
 8. [Print maze paths](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/PrintMazePaths.java)
-8. [Rat in a maze](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/RatInMaze.java)
-8. [Rat in a maze with multiple steps or jumps allowed](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/RatInMazeWithMultipleSteps.java)
-8. [Print all Possible Decoding of a given Digit Sequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/PrintEncoding.java)
+9. [Rat in a maze](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/RatInMaze.java)
+10. [Rat in a maze with multiple steps or jumps allowed](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/RatInMazeWithMultipleSteps.java)
+11. [Print all Possible Decoding of a given Digit Sequence](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/PrintEncoding.java)
+12. [Joshephus Problem](https://github.com/kumarsudarshan/algorithms/blob/master/src/recursion/Josephus.java)
 
 ### Backtrack
 
