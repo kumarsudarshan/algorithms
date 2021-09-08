@@ -235,6 +235,7 @@
 ### Greedy Algorithm
 
 1. [Minimum Number of Refueling Stops](https://github.com/kumarsudarshan/algorithms/blob/master/src/greedy/MinimumRefuelingStops.java)
+2. [Candy distribution](https://github.com/kumarsudarshan/algorithms/blob/master/src/greedy/Candy.java)
 
 ### Dynamic Programming
 
