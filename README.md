@@ -322,6 +322,7 @@
 1. [Random number generator](https://github.com/kumarsudarshan/algorithms/blob/master/src/math/RandomGeneratorProbability.java)
 2. [Catalan Number](https://github.com/kumarsudarshan/algorithms/blob/master/src/math/CatalanNumber.java)
 3. [Catalan Number applications](https://www.geeksforgeeks.org/applications-of-catalan-numbers)
+4. [Next Permutation](https://github.com/kumarsudarshan/algorithms/blob/master/src/math/NextPermutation.java)
 
 ### Bitwise
 
