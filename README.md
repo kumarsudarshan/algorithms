@@ -310,6 +310,7 @@
 3. [Jump Game III](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/JumpGameIII.java)
 4. [Minimum Number of Taps to Open to Water a Garden](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MinimumTapToSprinkleWater.java)
 5. [Maximum square size with all ones](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/MaximumSizeSquare.java)
+6. [String compression](https://github.com/kumarsudarshan/algorithms/blob/master/src/DP/StringCompression.java)
 
 ### Arrays
 
