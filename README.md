@@ -208,6 +208,7 @@
 1. [Shortest Path](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/ShortestPath.java)
 2. [Town Judge](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/TownJudge.java)
 3. [Clone Graph](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/CloneGraph.java)
+4. [Shortest path in Binary Maze](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/ShortestPathInBinaryMaze.java)
 
 #### Depth First Search
 
