@@ -317,6 +317,8 @@
 
 1. [Merge K sorted lists](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MergeKSortedLists.java)
 2. [Min steps in infinite grid](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MinStepsInInfiniteGrid.java)
+3. [Maximum difference such that smaller element appears first](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MaximumDifferenceWithSmallerElementComesFirst.java)
+4. [Maximum absolute difference](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MaximumAbsoluteDifference.java)
 
 ### Matrix
 

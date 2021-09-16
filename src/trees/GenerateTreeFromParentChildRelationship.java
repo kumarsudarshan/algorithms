@@ -42,8 +42,6 @@ public class GenerateTreeFromParentChildRelationship {
         inOrder(root);
     }
 
-    static int count = 0;
-
     public static TreeNode buildTree(List<Relation> nodeList) {
         Map<Integer, Map<Integer, Boolean>> parentChildListMap = new HashMap<>();
         Integer rootNode = null;
@@ -58,20 +56,15 @@ public class GenerateTreeFromParentChildRelationship {
             temp.put(relation.child, relation.isLeft);
             parentChildListMap.put(relation.parent, temp);
         }
-        count = nodeList.size();
         if (rootNode == null) {
             return null;
         }
         TreeNode root = new TreeNode(rootNode);
-        count--;
         buildTreeHelper(root, rootNode, parentChildListMap);
         return root;
     }
 
     private static void buildTreeHelper(TreeNode node, int parent, Map<Integer, Map<Integer, Boolean>> parentChildListMap) {
-        if (count == 0) {
-            return;
-        }
         if (parentChildListMap.get(parent) != null) {
             for(Map.Entry<Integer, Boolean> entry : parentChildListMap.get(parent).entrySet()){
                 if(entry.getValue()) { // if left
@@ -83,7 +76,6 @@ public class GenerateTreeFromParentChildRelationship {
                 }
             }
         }
-        count++;
     }
 
     static void inOrder(TreeNode root) {
