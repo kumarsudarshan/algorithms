@@ -181,6 +181,7 @@
 13. [Root to leaf print](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/PrintAllPaths.java)
 14. [Largest BST in Binary Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/LargestBST.java)
 15. [Clone Binary tree with Random pointers](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/CloneBinaryTree.java)
+16. [Generate Binary tree from parent child relationship](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/GenerateTreeFromParentChildRelationship.java)
 
 #### Breadth First Search
 
