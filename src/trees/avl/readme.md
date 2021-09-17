@@ -13,4 +13,14 @@ The self balancing property of an avl tree is maintained by the balance factor. 
 
 An example of a balanced avl tree is:
 
+![image](https://user-images.githubusercontent.com/8271393/133758587-135b036f-c217-4487-8c71-844547523f61.png)
 
+#### Rotating the subtrees in an AVL Tree
+In rotation operation, the positions of the nodes of a subtree are interchanged.
+
+**There are two types of rotations:**
+
+**Left Rotate**
+In left-rotation, the arrangement of the nodes on the right is transformed into the arrangements on the left node.
+
+Algorithm
