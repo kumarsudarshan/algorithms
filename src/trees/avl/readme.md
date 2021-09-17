@@ -23,4 +23,16 @@ In rotation operation, the positions of the nodes of a subtree are interchanged.
 **Left Rotate**
 In left-rotation, the arrangement of the nodes on the right is transformed into the arrangements on the left node.
 
-Algorithm
+![image](https://user-images.githubusercontent.com/8271393/133759037-2e377553-d978-4d3d-88f0-aa66a7142ffc.png)
+
+**Right Rotate**
+In left-rotation, the arrangement of the nodes on the left is transformed into the arrangements on the right node.
+
+![image](https://user-images.githubusercontent.com/8271393/133759192-3f87aec0-5703-4042-83c0-41cba016a855.png)
+
+**Left-Right and Right-Left Rotate**
+In left-right rotation, the arrangements are first shifted to the left and then to the right.
+
+![image](https://user-images.githubusercontent.com/8271393/133759284-3199de70-c793-47cb-af8c-d9a2157a7b18.png)
+
+More details: [https://www.programiz.com/dsa/avl-tree]
