@@ -204,6 +204,9 @@
 7. [Path with Maximum Sum (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/PathWithMaxSum.java)
 8. [Delete nodes and return forest (disjoint trees) (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/dfs/DeleteNodesReturnForest.java)
 
+#### AVL Tree
+1. [AVL Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/avl)
+
 ### Graph
 
 1. [Shortest Path](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/ShortestPath.java)
