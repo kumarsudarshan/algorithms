@@ -208,7 +208,7 @@
 1. [AVL Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/avl)
 2. [B Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/btree)
 3. [B+ Tree](https://www.programiz.com/dsa/b-plus-tree)
-4. [Red Black Tree](https://www.programiz.com/dsa/red-black-tree)
+4. [Red Black Tree](https://github.com/kumarsudarshan/algorithms/blob/master/src/trees/redblacktree)
 
 ### Graph
 
