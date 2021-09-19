@@ -16,6 +16,7 @@
 1. [Longest subarray of sum k](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/variablewindow/LongestSubarrayOfSumK.java)
 2. [Longest k unique characters in a substring](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/variablewindow/LongestKUniqueCharactersSubstring.java)
 3. [Longest substring without repeating characters](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/variablewindow/LongestSubstringWithoutRepeatingCharacters.java)
+4. [Number of subarrays with given sum](https://github.com/kumarsudarshan/algorithms/blob/master/src/slidingwindow/CountSubarraySumK.java)
 
 ### Two Pointer
 
