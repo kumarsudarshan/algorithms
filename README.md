@@ -344,6 +344,7 @@
 
 1. [All number appeared twice except one](https://github.com/kumarsudarshan/algorithms/blob/master/src/bitwise/SingleNumber.java)
 2. [All number appeared n time  except one appear one time](https://github.com/kumarsudarshan/algorithms/blob/master/src/bitwise/ElementAppearedOnce.java)
+3. [All number appeared twice except two number](https://github.com/kumarsudarshan/algorithms/blob/master/src/bitwise/TwoElementAppearedOnce.java)
 
 ## Design
 
