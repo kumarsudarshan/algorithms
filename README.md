@@ -118,14 +118,15 @@
 
 1. [Next greater element](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/NearestGreaterElement.java)
 2. [Next smaller element](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/NextSmallerElement.java)
-3. [Stock span problem](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/StockSpanProblem.java)
-4. [Largest Rectangular Area in a Histogram](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/MaximumAreaHistogram.java)
-5. [Maximum size rectangle binary sub-matrix with all 1s](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/RegionInBinaryMatrix.java)
-6. [Trapping Rain Water](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/TrappingRainWater.java)
-7. [Min Stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/MinStack.java)
-8. [Implement stack using heap](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/StackUsingHeap.java)
-9. [The Celebrity Problem](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/CelebrityProblem.java)
-10. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
+3. [Next greater element in circular array](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/NextGreaterElementInCircular.java)
+4. [Stock span problem](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/StockSpanProblem.java)
+5. [Largest Rectangular Area in a Histogram](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/MaximumAreaHistogram.java)
+6. [Maximum size rectangle binary sub-matrix with all 1s](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/RegionInBinaryMatrix.java)
+7. [Trapping Rain Water](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/TrappingRainWater.java)
+8. [Min Stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/MinStack.java)
+9. [Implement stack using heap](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/StackUsingHeap.java)
+10. [The Celebrity Problem](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/CelebrityProblem.java)
+11. [Balanced brackets](https://github.com/kumarsudarshan/algorithms/blob/master/src/stack/BalancedBrackets.java)
 
 ### Recursion
 
