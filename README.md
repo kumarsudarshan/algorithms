@@ -359,6 +359,7 @@
 3. [Peeking Iterator](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/PeekingIterator.java)
 4. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/Trie.java)
 5. [Design data structure that insert/delete/search/random in O(1)](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/CRUDRandomConstant.java)
+6. [Design data structure that insertFirst/insertLast/delete in O(1)](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/AddBothEndDeleteConstant.java)
 
 ## SQL
 
