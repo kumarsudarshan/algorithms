@@ -330,6 +330,10 @@
 4. [Maximum absolute difference](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MaximumAbsoluteDifference.java)
 5. [Longest Bitonic subarray](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/LongestBitonicSubarray.java)
 
+### String
+
+1. [Longest Palindromic Chunk](https://github.com/kumarsudarshan/algorithms/blob/master/src/string/LongestPalindromicChunk.java)
+
 ### Matrix
 
 1. [Spiral Order](https://github.com/kumarsudarshan/algorithms/blob/master/src/matrix/SpiralOrder.java)
