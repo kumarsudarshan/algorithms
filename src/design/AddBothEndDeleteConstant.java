@@ -12,7 +12,7 @@ printList():- print the list elements
  */
 public class AddBothEndDeleteConstant {
     DoublyLinkedList doublyLinkedList;
-    Map<Integer, List<DLLNode>> map;
+    Map<Integer, DoublyLinkedList<DLLNode>> map;
 
     AddBothEndDeleteConstant() {
         doublyLinkedList = new DoublyLinkedList();
@@ -22,42 +22,33 @@ public class AddBothEndDeleteConstant {
     public void insertFirst(int value) {
         DLLNode newNode = new DLLNode(value);
         doublyLinkedList.addAtHead(newNode);
-        List<DLLNode> nodeList = new ArrayList<>();
+        DoublyLinkedList<DLLNode> nodeList = new DoublyLinkedList<>();
         if (map.containsKey(value)) {
             nodeList = map.get(value);
-            nodeList.add(newNode);
-            Collections.swap(nodeList, 0, nodeList.size() - 1);
-            map.put(value, nodeList);
-        } else {
-            nodeList.add(newNode);
         }
+        nodeList.addAtHead(new DLLNode(newNode));
         map.put(value, nodeList);
     }
 
     public void insertLast(int value) {
         DLLNode newNode = new DLLNode(value);
         doublyLinkedList.addAtEnd(newNode);
-        List<DLLNode> nodeList = new ArrayList<>();
+        DoublyLinkedList<DLLNode> nodeList = new DoublyLinkedList<>();
         if (map.containsKey(value)) {
             nodeList = map.get(value);
         }
-        nodeList.add(newNode);
+        nodeList.addAtEnd(new DLLNode(newNode));
         map.put(value, nodeList);
     }
 
     public void deleteValue(int value) {
-        List<DLLNode> tempNodeList = map.get(value);
+        DoublyLinkedList<DLLNode> tempNodeList = map.get(value);
         if (tempNodeList == null) {
             return;
         }
-        if (tempNodeList.size() == 1) {
-            map.remove(value);
-            doublyLinkedList.deleteNode(tempNodeList.get(0));
-        } else {
-            Collections.swap(tempNodeList, 0, tempNodeList.size() - 1);
-            doublyLinkedList.deleteNode(tempNodeList.get(tempNodeList.size() - 1));
-            tempNodeList.remove(tempNodeList.size() - 1);
-        }
+        DLLNode tempNode = tempNodeList.getHead().next;
+        doublyLinkedList.deleteNode((DLLNode) tempNode.value);
+        tempNodeList.deleteNode(tempNode);
     }
 
     public void printList() {
@@ -71,18 +62,21 @@ public class AddBothEndDeleteConstant {
         ds.insertFirst(2);
         ds.insertFirst(4);
         ds.insertLast(7);
-        ds.printList(); // 4, 2, 3, 2, 7
+        ds.insertLast(2);
+        ds.insertLast(9);
+        ds.insertLast(2);
+        ds.printList(); // 4  2  3  2  7  2  9  2
         ds.deleteValue(2);
         System.out.println();
-        ds.printList(); // 4, 3, 2, 7
+        ds.printList(); // 4  3  2  7  2  9  2
         ds.deleteValue(2);
         System.out.println();
-        ds.printList(); // 4, 3, 7
+        ds.printList(); // 4  3  7  2  9  2
     }
 
 }
 
-class DoublyLinkedList {
+class DoublyLinkedList<T> {
     private DLLNode head;
     private DLLNode last;
 
@@ -91,6 +85,10 @@ class DoublyLinkedList {
         last = new DLLNode(0);
         head.next = last;
         last.prev = head;
+    }
+
+    public DLLNode getHead() {
+        return head;
     }
 
     public void addAtHead(DLLNode node) {
@@ -115,18 +113,18 @@ class DoublyLinkedList {
     public void print() {
         DLLNode temp = head.next;
         while (temp != last) {
-            System.out.println(temp.value);
+            System.out.print(temp.value + "  ");
             temp = temp.next;
         }
     }
 }
 
-class DLLNode {
-    int value;
+class DLLNode<T> {
+    T value;
     DLLNode next;
     DLLNode prev;
 
-    DLLNode(int value) {
+    DLLNode(T value) {
         this.value = value;
     }
 }
