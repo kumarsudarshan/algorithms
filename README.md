@@ -150,6 +150,7 @@
 3. [All permutation of string](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/AllPermutationOfString.java)
 4. [N-Queens](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/NQueens.java)
 5. [Knight's tour](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/KnightTours.java)
+6. [Generate all sentences from string and dictionary](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/AllSentences.java)
 
 ### Linked List
 
