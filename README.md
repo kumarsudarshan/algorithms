@@ -332,6 +332,7 @@
 3. [Maximum difference such that smaller element appears first](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MaximumDifferenceWithSmallerElementComesFirst.java)
 4. [Maximum absolute difference](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MaximumAbsoluteDifference.java)
 5. [Longest Bitonic subarray](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/LongestBitonicSubarray.java)
+6. [Sum of all subsequences of length K](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/SubsequenceSumK.java)
 
 ### String
 
