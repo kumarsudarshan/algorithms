@@ -336,6 +336,7 @@
 ### String
 
 1. [Longest Palindromic Chunk](https://github.com/kumarsudarshan/algorithms/blob/master/src/string/LongestPalindromicChunk.java)
+2. [Group Anagrams](https://github.com/kumarsudarshan/algorithms/blob/master/src/string/GroupAnagrams.java)
 
 ### Matrix
 
