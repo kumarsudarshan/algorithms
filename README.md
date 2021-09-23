@@ -151,6 +151,7 @@
 4. [N-Queens](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/NQueens.java)
 5. [Knight's tour](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/KnightTours.java)
 6. [Generate all sentences from string and dictionary](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/AllSentences.java)
+7. [All subsequences with sum equals to K](https://github.com/kumarsudarshan/algorithms/blob/master/src/backtrack/AllSubsequenceSumEqualK.java)
 
 ### Linked List
 
