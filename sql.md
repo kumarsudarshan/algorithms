@@ -166,12 +166,11 @@ Syntax:
 **The syntax to drop an Index is DROP INDEX INDEX_NAME on TABLE_NAME;**
 
 ### How these indexes work internally
-```
-Indexes are known to improve the efficiency of SQL Select queries
+**Indexes** are known to improve the efficiency of SQL Select queries
 Suppose we need to search by employee name = Kumar
 What goes on behind the scenes is Every single row is checked to see
 if the employee_name matches with Kumar. This effectively means that the 
-entire table will have to be scanned (known as the full table scan).
+entire table will have to be scanned (known as the **full table scan**).
 
 An index is a data structure that stores the values for a certain specific column
 of a table and helps us avoid a full table scan. 
@@ -180,10 +179,10 @@ Database Indexing in reality, allows us to cut down the number of rows/records
 that need to be examined when a select query with a where clause is executed.
 
 Few DS are :
-B-Tree : B-Trees are the most commonly used data structures for indexes 
+**B-Tree** : B-Trees are the most commonly used data structures for indexes 
 as they are time-efficient for lookups, deletions and insertions. All these
-operations can be done in logarithmic time. Data that is stored inside of a B-tree 
-can be sorted.
+operations can be done in **logarithmic time**. Data that is stored inside of a B-tree 
+can be **sorted**.
 
 Database indexes will also store pointers which are simply reference 
 information for the location of the additional information in memory. 
@@ -191,4 +190,14 @@ Basically the index holds the customer_id and that particular row’s home addre
 
 The query looks for the specific row in the index; the index refers to the pointer which will
 find the rest of the information.
-```
+
+
+### Disadvantages of indexes
+- Index takes up additional space, so the larger the table, the bigger the index.
+- Every time you perform and add, delete or update operation, the same operation will
+   need to be perfromed on the index as well.
+
+### If we drop a table, does it also drop related objects like contraints, indexes, columns, default, views and stored procedures?
+- Yes, SQL server drops all related objects, which exists inside a table like constraints, 
+indexes, columns, defaults etc.
+- But dropping a table will not drop views and sorted procedures as they exist outside the table.
