@@ -165,6 +165,7 @@ Syntax:
     
 **The syntax to drop an Index is DROP INDEX INDEX_NAME on TABLE_NAME;**
 
+### How these indexes work internally
 ```
 Indexes are known to improve the efficiency of SQL Select queries
 Suppose we need to search by employee name = Kumar
