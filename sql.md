@@ -187,7 +187,7 @@ can be sorted.
 
 Database indexes will also store pointers which are simply reference 
 information for the location of the additional information in memory. 
-Basically the index holds the id and that particular row’s home address on the memory disk.
+Basically the index holds the customer_id and that particular row’s home address on the memory disk.
 
 The query looks for the specific row in the index; the index refers to the pointer which will
 find the rest of the information.
