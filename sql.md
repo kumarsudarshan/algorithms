@@ -180,7 +180,15 @@ Database Indexing in reality, allows us to cut down the number of rows/records
 that need to be examined when a select query with a where clause is executed.
 
 Few DS are :
-B-tree - Database indexes will also store pointers which are simply reference 
+B-Tree : B-Trees are the most commonly used data structures for indexes 
+as they are time-efficient for lookups, deletions and insertions. All these
+operations can be done in logarithmic time. Data that is stored inside of a B-tree 
+can be sorted.
+
+Database indexes will also store pointers which are simply reference 
 information for the location of the additional information in memory. 
 Basically the index holds the id and that particular row’s home address on the memory disk.
+
+The query looks for the specific row in the index; the index refers to the pointer which will
+find the rest of the information.
 ```
