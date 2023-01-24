@@ -181,5 +181,5 @@ that need to be examined when a select query with a where clause is executed.
 Few DS are :
 B-tree - Database indexes will also store pointers which are simply reference 
 information for the location of the additional information in memory. 
-Basically the index holds the company_id and that particular row’s home address on the memory disk.
+Basically the index holds the id and that particular row’s home address on the memory disk.
 ```
