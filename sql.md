@@ -150,3 +150,36 @@ AS OF <timestamp> Point in time
 FROM <timestamp> TO <timestamp> Inclusive / exclusive period
 BETWEEN <timestamp> AND <timestamp> Inclusive / inclusive period
 ```
+
+## What are Indexes and how to create an indexes in SQL?
+```
+Indexes are database objects which help in retrieving records quickly and more efficiently.
+Column indexes can be created on both Tables and Views. 
+By declaring a Column as an index within a table/ view, 
+the user can access those records quickly by executing the index. 
+Indexes with more than one column are called Clustered indexes.
+```
+
+Syntax:
+    **CREATE INDEX INDEX_NAME ON TABLE_NAME(COL1, COL2);**
+    
+**The syntax to drop an Index is DROP INDEX INDEX_NAME on TABLE_NAME;**
+
+```
+Indexes are known to improve the efficiency of SQL Select queries
+Suppose we need to search by employee name = Kumar
+What goes on behind the scenes is Every single row is checked to see
+if the employee_name matches with Kumar. This effectively means that the 
+entire table will have to be scanned (known as the full table scan).
+
+An index is a data structure that stores the values for a certain specific column
+of a table and helps us avoid a full table scan. 
+
+Database Indexing in reality, allows us to cut down the number of rows/records
+that need to be examined when a select query with a where clause is executed.
+
+Few DS are :
+B-tree - Database indexes will also store pointers which are simply reference 
+information for the location of the additional information in memory. 
+Basically the index holds the company_id and that particular row’s home address on the memory disk.
+```
