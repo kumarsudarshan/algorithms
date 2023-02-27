@@ -84,6 +84,7 @@
 8. [Search Bitonic Array (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/SearchBitonicArray.java)
 9. [Search in Rotated Array (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/SearchInRotatedArray.java)
 10. [Rotation Count (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/RotationCount.java)
+11. [All number occured twice except one occur thrice (medium)](https://github.com/kumarsudarshan/algorithms/blob/master/src/binarysearch/AllTwiceOneThrice.java)
 
 ### Heap
 
@@ -335,6 +336,7 @@
 4. [Maximum absolute difference](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/MaximumAbsoluteDifference.java)
 5. [Longest Bitonic subarray](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/LongestBitonicSubarray.java)
 6. [Sum of all subsequences of length K](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/SubsequenceSumK.java)
+7. [Search in array with neighbours differ by +-1](https://github.com/kumarsudarshan/algorithms/blob/master/src/arrays/NeighbourDifferBy1.java)
 
 ### String
 
@@ -364,9 +366,10 @@
 1. [Design LRU Cache](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/LRUCache.java)
 2. [Min Stack](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/MinStack.java)
 3. [Peeking Iterator](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/PeekingIterator.java)
-4. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/Trie.java)
-5. [Design data structure that insert/delete/search/random in O(1)](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/CRUDRandomConstant.java)
-6. [Design data structure that insertFirst/insertLast/delete in O(1)](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/AddBothEndDeleteConstant.java)
+4. [Iterator of Iterators](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/IteratorOfIterators.java)
+5. [Implement Trie](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/Trie.java)
+6. [Design data structure that insert/delete/search/random in O(1)](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/CRUDRandomConstant.java)
+7. [Design data structure that insertFirst/insertLast/delete in O(1)](https://github.com/kumarsudarshan/algorithms/blob/master/src/design/AddBothEndDeleteConstant.java)
 
 ## SQL
 
