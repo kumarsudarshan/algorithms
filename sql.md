@@ -116,7 +116,7 @@ SQL Queries
         FROM CITY;
     ```
     
-12. **Query all employees whose salary greater than 50,000 based on all salary component .**
+12. **Query all employees whose salary greater than 50,000 based on all salary component .**<br />
 **EMPLOYEE Table:**
     | ID      | First_Name | Last_Name
     | ----------- | ----------- | -----------
