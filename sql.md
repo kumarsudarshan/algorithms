@@ -116,7 +116,42 @@ SQL Queries
         FROM CITY;
     ```
     
-12 Create temporal tables
+12. **Query all employees whose salary greater than 50,000 based on all salary component .**
+    **EMPLOYEE Table:**
+    | ID      | First_Name | Last_Name
+    | ----------- | ----------- | -----------
+    | 1      | Kumar | Sudarshan
+    | 2   | Rahul | Kumar
+    | 3   | Ankit | Kumar
+
+
+   **EMP_SALARY Table:**
+   | EMP_ID      | Component | Salary
+   | ----------- | ----------- | -----------
+   | 1      | BASIC | 25000
+   | 1   | HRA | 12000
+   | 1   | BONUS | 37000
+   | 2      | BASIC | 15000
+   | 2   | HRA | 10000
+   | 2   | BONUS | 11000
+   | 3      | BASIC | 20000
+   | 3   | HRA | 20000
+   | 3   | BONUS | 35000
+
+
+```    
+    SELECT es.EMP_ID , e.FIRST_NAME , e.LAST_NAME, SUM(es.SALARY)  FROM EMPLOYEE e, EMP_SALARY es 
+      WHERE e.ID = es.EMP_ID 
+      GROUP BY es.EMP_ID 
+      HAVING SUM(es.SALARY) > 50000
+```  
+Output:
+   | EMP_ID | First_Name | Last_Name | Salary
+   | ----------- | ----------- | ----------- | -----------
+   1 |	Kumar |	Sudarshan |	74000
+   2 |	Ankit |	Kumar |	70000
+
+13. Create temporal tables
 System Temporal Table Declaration
 In this example we will consider a simple table containing customers -
 ```
@@ -126,6 +161,7 @@ In this example we will consider a simple table containing customers -
          ADDRESS VARCHAR(250)
       );
 ```
+
 There is a requirement to record all changes to this table and to be able to show the state of
 customer record at any point in the past. This requirement, often called an audit trail, can be met
 using system temporal support.
