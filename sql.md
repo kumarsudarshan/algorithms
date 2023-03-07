@@ -117,7 +117,6 @@ SQL Queries
     ```
     
 12. **Query all employees whose salary greater than 50,000 based on all salary component .**
-    
 **EMPLOYEE Table:**
     | ID      | First_Name | Last_Name
     | ----------- | ----------- | -----------
