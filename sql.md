@@ -118,7 +118,7 @@ SQL Queries
     
 12. **Query all employees whose salary greater than 50,000 based on all salary component .**
     
-**EMPLOYEE Table:**<br />
+**EMPLOYEE Table:**
     | ID      | First_Name | Last_Name
     | ----------- | ----------- | -----------
     | 1      | Kumar | Sudarshan
@@ -126,7 +126,7 @@ SQL Queries
     | 3   | Ankit | Kumar
 
 
-**EMP_SALARY Table:**<br />
+   **EMP_SALARY Table:**
    | EMP_ID      | Component | Salary
    | ----------- | ----------- | -----------
    | 1      | BASIC | 25000
