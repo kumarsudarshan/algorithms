@@ -239,6 +239,7 @@
 5. [Find Rome (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/FindRome.java)
 6. [Alien Dictionary (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/AlienDictionary.java)
 7. [Reconstructing a Sequence (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/ReconstructSequence.java)
+8. [Package dependency (hard)](https://github.com/kumarsudarshan/algorithms/blob/master/src/graph/topologicalsort/PackageDependency.java)
 
 #### Disjoint Set (Union Find)
 
