@@ -126,6 +126,7 @@ SQL Queries
 
 
    **EMP_SALARY Table:**
+
    | EMP_ID      | Component | Salary
    | ----------- | ----------- | -----------
    | 1      | BASIC | 25000
@@ -145,13 +146,61 @@ SQL Queries
       GROUP BY es.EMP_ID 
       HAVING SUM(es.SALARY) > 50000
 ```  
-Output:
-   | EMP_ID | First_Name | Last_Name | Salary
-   | ----------- | ----------- | ----------- | -----------
-   1 |	Kumar |	Sudarshan |	74000
-   2 |	Ankit |	Kumar |	70000
+**Output:**
 
-13. Create temporal tables
+| EMP_ID | First_Name | Last_Name   | Salary  
+|--------|------------|-------------|---------|
+| 1      | 	Kumar     | Sudarshan   | 	74000  |
+| 2      | 	Ankit     | 	Kumar   | 	70000  |
+
+
+13. Find node details of Binary Search Tree
+
+               4
+             /   \
+            2      6
+          /   \  /   \
+         1    3  5    7
+      
+```Table Name : BST```
+
+| ID  | PARENT_ID |
+|-----|-----------|
+| 1   | 2         |
+| 2   | 4         |
+| 3   | 2         |
+| 4   | [NULL]    |
+| 5   | 6         |
+| 6   | 4         |
+| 7   | 6         |
+
+```
+      SELECT id,
+             CASE
+               WHEN p_id IS NULL THEN 'ROOT'
+               WHEN (SELECT Count(*)
+                     FROM   BST
+                     WHERE  p_id = T.id) > 0 THEN 'INNER'
+               ELSE 'LEAF'
+             END AS node_details
+      FROM   BST T
+      ORDER  BY id;
+```
+Output:
+
+| id  | node_details |
+|-----|--------------|
+| 1   | LEAF         |
+| 2   | INNER        |
+| 3   | LEAF         |
+| 4   | ROOT         |
+| 5   | LEAF         |
+| 6   | INNER        |
+| 7   | LEAF         |
+
+
+
+14. Create temporal tables
 System Temporal Table Declaration
 In this example we will consider a simple table containing customers -
 ```
